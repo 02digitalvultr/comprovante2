@@ -50,4 +50,4 @@ def formatar_cpf(cpf):
         return "CPF inválido"
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0') # alteração feita aqui
+    app.run(host='216.238.112.95') # alteração feita aqui
